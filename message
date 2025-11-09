@@ -1,0 +1,247 @@
+[
+  {
+    "title": "Welcome to NotesApp",
+    "description": "This is your first message. Stay organized and creative!",
+    "image": "https://picsum.photos/300/200?1"
+  },
+  {
+    "title": "Daily Motivation",
+    "description": "Small progress is still progress. Keep moving forward!",
+    "image": "https://picsum.photos/300/200?2"
+  },
+  {
+    "title": "Reminder",
+    "description": "Don’t forget to drink water and take breaks regularly.",
+    "image": ""
+  },
+  {
+    "title": "Study Tips",
+    "description": "Focus for 25 minutes, then rest for 5 minutes. It’s called the Pomodoro Technique.",
+    "image": "https://picsum.photos/300/200?3"
+  },
+  {
+    "title": "Quote of the Day",
+    "description": "Dream big. Work hard. Stay humble.",
+    "image": "https://picsum.photos/300/200?4"
+  },
+  {
+    "title": "Weekend Plan",
+    "description": "Make time for family, hobbies, and a little rest.",
+    "image": ""
+  },
+  {
+    "title": "App Update",
+    "description": "We’ve added a new feature: Search your notes instantly!",
+    "image": "https://picsum.photos/300/200?5"
+  },
+  {
+    "title": "New Lesson",
+    "description": "Korean Grammar Step 1 is now available. Start learning!",
+    "image": ""
+  },
+  {
+    "title": "Motivational Monday",
+    "description": "Start your week strong. Focus on your goals and stay positive.",
+    "image": "https://picsum.photos/300/200?6"
+  },
+  {
+    "title": "Update Notice",
+    "description": "Bug fixes and performance improvements are live.",
+    "image": ""
+  },
+  {
+    "title": "Daily Challenge",
+    "description": "Try writing one note every day. Build your habit.",
+    "image": "https://picsum.photos/300/200?7"
+  },
+  {
+    "title": "Language Tip",
+    "description": "Learning slowly is better than not learning at all.",
+    "image": ""
+  },
+  {
+    "title": "Mindfulness",
+    "description": "Take 5 minutes today to breathe deeply and relax.",
+    "image": "https://picsum.photos/300/200?8"
+  },
+  {
+    "title": "Upcoming Feature",
+    "description": "Offline notes syncing is coming soon!",
+    "image": ""
+  },
+  {
+    "title": "Happy Tuesday",
+    "description": "Smile more today — it makes a difference.",
+    "image": "https://picsum.photos/300/200?9"
+  },
+  {
+    "title": "New Tutorial",
+    "description": "Learn Firebase basics in our new guide.",
+    "image": ""
+  },
+  {
+    "title": "Focus Reminder",
+    "description": "Turn off distractions for one hour and finish your main task.",
+    "image": "https://picsum.photos/300/200?10"
+  },
+  {
+    "title": "Community Update",
+    "description": "Our team just reached 1,000 users! Thank you all!",
+    "image": ""
+  },
+  {
+    "title": "Night Mode",
+    "description": "Dark mode is now available in settings.",
+    "image": "https://picsum.photos/300/200?11"
+  },
+  {
+    "title": "Quote",
+    "description": "Success doesn’t come to you. You go to it.",
+    "image": ""
+  },
+  {
+    "title": "Korean Word of the Day",
+    "description": "사랑 (sarang) — Love ❤️",
+    "image": "https://picsum.photos/300/200?12"
+  },
+  {
+    "title": "Healthy Habit",
+    "description": "Walk for at least 30 minutes every day.",
+    "image": ""
+  },
+  {
+    "title": "Special Announcement",
+    "description": "Exciting new features are on the way. Stay tuned!",
+    "image": "https://picsum.photos/300/200?13"
+  },
+  {
+    "title": "Weekend Motivation",
+    "description": "Do something today that your future self will thank you for.",
+    "image": ""
+  },
+  {
+    "title": "App Notice",
+    "description": "We’re currently testing new UI improvements.",
+    "image": "https://picsum.photos/300/200?14"
+  },
+  {
+    "title": "Learning Goal",
+    "description": "Learn 5 new Korean words today.",
+    "image": ""
+  },
+  {
+    "title": "Quote",
+    "description": "The secret of getting ahead is getting started.",
+    "image": "https://picsum.photos/300/200?15"
+  },
+  {
+    "title": "Study Reminder",
+    "description": "Review your flashcards today — repetition builds memory.",
+    "image": ""
+  },
+  {
+    "title": "System Alert",
+    "description": "A new app version is available. Update to v2.1!",
+    "image": "https://picsum.photos/300/200?16"
+  },
+  {
+    "title": "Daily Motivation",
+    "description": "It always seems impossible until it’s done.",
+    "image": ""
+  },
+  {
+    "title": "Fun Fact",
+    "description": "There are over 70 ways to say 'love' in Korean!",
+    "image": "https://picsum.photos/300/200?17"
+  },
+  {
+    "title": "Thank You",
+    "description": "We appreciate your support and feedback!",
+    "image": ""
+  },
+  {
+    "title": "Good Morning",
+    "description": "Start your day with a goal and a smile!",
+    "image": "https://picsum.photos/300/200?18"
+  },
+  {
+    "title": "Developer Note",
+    "description": "This section is powered by GitHub JSON data.",
+    "image": ""
+  },
+  {
+    "title": "Important Notice",
+    "description": "Check your internet connection before fetching messages.",
+    "image": "https://picsum.photos/300/200?19"
+  },
+  {
+    "title": "Feature Test",
+    "description": "Testing image visibility toggle and null handling.",
+    "image": ""
+  },
+  {
+    "title": "New Design",
+    "description": "Our message cards now have a soft white background.",
+    "image": "https://picsum.photos/300/200?20"
+  },
+  {
+    "title": "Friendly Reminder",
+    "description": "Always back up your important notes!",
+    "image": ""
+  },
+  {
+    "title": "Motivation",
+    "description": "Don’t stop when you’re tired. Stop when you’re done.",
+    "image": "https://picsum.photos/300/200?21"
+  },
+  {
+    "title": "Language Challenge",
+    "description": "Try translating a full Korean sentence today!",
+    "image": ""
+  },
+  {
+    "title": "New Feature Coming",
+    "description": "We’re building AI-powered Korean learning soon!",
+    "image": "https://picsum.photos/300/200?22"
+  },
+  {
+    "title": "Focus Tip",
+    "description": "Use headphones and soft music to study better.",
+    "image": ""
+  },
+  {
+    "title": "Fun Quote",
+    "description": "Creativity is intelligence having fun.",
+    "image": "https://picsum.photos/300/200?23"
+  },
+  {
+    "title": "Weekend Vibes",
+    "description": "Rest is also part of progress.",
+    "image": ""
+  },
+  {
+    "title": "Health Update",
+    "description": "Drink green tea — it boosts focus and energy.",
+    "image": "https://picsum.photos/300/200?24"
+  },
+  {
+    "title": "Learning Path",
+    "description": "Keep track of your progress daily.",
+    "image": ""
+  },
+  {
+    "title": "Quote",
+    "description": "Discipline beats motivation.",
+    "image": "https://picsum.photos/300/200?25"
+  },
+  {
+    "title": "Daily Goal",
+    "description": "Write one new idea in your notes today.",
+    "image": ""
+  },
+  {
+    "title": "Final Message",
+    "description": "Thank you for using this demo file! 😊",
+    "image": "https://picsum.photos/300/200?26"
+  }
+]
